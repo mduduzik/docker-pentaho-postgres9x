@@ -1,0 +1,10 @@
+2016-01-30 14:52:31 UTC LOG:  database system was shut down at 2015-12-20 18:36:29 UTC
+2016-01-30 14:52:31 UTC LOG:  MultiXact member wraparound protections are now enabled
+2016-01-30 14:52:31 UTC LOG:  database system is ready to accept connections
+2016-01-30 14:52:31 UTC LOG:  autovacuum launcher started
+2016-01-30 14:52:32 UTC LOG:  incomplete startup packet
+2016-01-30 14:52:34 UTC LOG:  received fast shutdown request
+2016-01-30 14:52:34 UTC LOG:  aborting any active transactions
+2016-01-30 14:52:34 UTC LOG:  autovacuum launcher shutting down
+2016-01-30 14:52:34 UTC LOG:  shutting down
+2016-01-30 14:52:34 UTC LOG:  database system is shut down
